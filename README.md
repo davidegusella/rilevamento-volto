@@ -14,5 +14,6 @@ Requisiti
 Assicurati di avere installate le seguenti librerie Python prima di eseguire il programma:
 pip install opencv-python mediapipe
 
+Avvio del programma
 Per avviare il programma, esegui lo script Python:
 python volto.py
