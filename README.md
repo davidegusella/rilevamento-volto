@@ -11,9 +11,9 @@ Funzionalità
 - Possibilità di chiudere il programma premendo il tasto ESC.
 
 Requisiti
-Assicurati di avere installate le seguenti librerie Python prima di eseguire il programma:
-pip install opencv-python mediapipe
+- Assicurati di avere installate le seguenti librerie Python prima di eseguire il programma:
+  pip install opencv-python mediapipe
 
 Avvio del programma
-Per avviare il programma, esegui lo script Python:
-python volto.py
+- Per avviare il programma, esegui lo script Python:
+  python volto.py
